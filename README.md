@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ridip Ranjan Deka</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
-
+<p align= "left"
+   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridipranjandeka&label=Profile%20views&color=0e75b6&style=flat" alt="ridipranjandeka" /> </p>
 
