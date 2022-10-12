@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridip Ranjan Deka</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="">https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif
+<img src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <p align= "left">
    
 
