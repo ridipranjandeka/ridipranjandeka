@@ -10,9 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ridipranjandek2" target="blank"><img src="https://img.shields.io/twitter/follow/@ridipranjandek2?logo=twitter&style=for-the-badge" alt="@ridipranjandek2" /></a> </p>
 
--
 
-- 💬 Ask me about **Android**
 
 - 📫 How to reach me **ridipranjandeka35@gmail.com**
 
